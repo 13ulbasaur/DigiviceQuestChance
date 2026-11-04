@@ -1,0 +1,38 @@
+body {
+	background-color: #2f3041;
+}
+
+.digiCard {
+	width: 130px;
+	padding: 10px;
+	margin: 5px;
+	justify-items: center;
+	border: var(--bs-primary-border) solid 1px;
+	border-radius: 5px;
+	background-color: var(--bs-primary-bg-subtle);
+	color: var(--bs-primary-fg);
+}
+
+.digiCard:hover {
+	background-color: var(--bs-primary-bg-muted);
+	color: var(--bs-primary-fg-emphasis);
+}
+
+.selected {
+	background-color: var(--bs-primary-bg) !important;
+	color: var(--bs-primary-contrast) !important;
+}
+
+.digiCard span {
+	display: inline-block;
+	height: 50px; 
+	overflow: auto;
+}
+
+.stage {
+	background-color: var(--bs-theme-bg-subtle);
+}
+
+.stage h2 {
+	text-align: left;
+}

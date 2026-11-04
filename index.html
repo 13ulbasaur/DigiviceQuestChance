@@ -1,0 +1,70 @@
+<html>
+<head>
+	<link rel="stylesheet" href="styles.css">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@6.0.0-alpha.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-B/GM4XqrwHnWXNOWMbloTmrYXZg10cakYGmpfsR/bbzQ6JAJI4ihuyADKLnBgrCe" crossorigin="anonymous">	
+</head>
+<body>
+	<div id="digimonList" class="container text-center">
+		<div class="options d-inline-flex gap-1">
+			<button class="btn-solid theme-primary" type="button" data-bs-toggle="collapse" data-bs-target="#stage-III" aria-expanded="false" aria-controls="stage-III">
+				Rookie
+			</button>
+			<button class="btn-solid theme-primary" type="button" data-bs-toggle="collapse" data-bs-target="#stage-IV" aria-expanded="false" aria-controls="stage-IV">
+				Champion
+			</button>
+			<button class="btn-solid theme-primary" type="button" data-bs-toggle="collapse" data-bs-target="#stage-V" aria-expanded="false" aria-controls="stage-V">
+				Ultimate
+			</button>
+			<button class="btn-solid theme-primary" type="button" data-bs-toggle="collapse" data-bs-target="#stage-VI" aria-expanded="false" aria-controls="stage-VI">
+				Mega
+			</button>
+			<button class="btn-solid theme-primary" type="button" data-bs-toggle="collapse" data-bs-target="#stage-VI+" aria-expanded="false" aria-controls="stage-VI+">
+				Mega+
+			</button>
+		</div>
+		<div id="stage-III" class="row stage collapse">
+			<h2>Rookie</h2>
+		</div>
+		<div id="stage-IV" class="row stage collapse">
+			<h2>Champion</h2>
+		</div>
+		<div id="stage-V" class="row stage collapse">
+			<h2>Ultimate</h2>
+		</div>
+		<div id="stage-VI" class="row stage collapse">
+			<h2>Mega</h2>
+		</div>
+		<div id="stage-VI+" class="row stage collapse">
+			<h2>Mega+</h2>
+		</div>
+	</div>
+	<div class="container">
+		<div class="form-field">
+			<div class="switch">
+				<input type="checkbox" value="" id="playerEgg" role="switch" switch>
+			</div>
+			<label for="playerEgg">Hatched from a Traited Egg?</label>
+		</div>
+		
+		<button type="button" class="col-6 btn-lg btn-solid theme-success" style="margin-top:5px; margin-bottom: 5px;" onclick="calculateQuestChance()">CALCULATE</button>
+	</div>
+	<div id="questList" class="container">
+		<table id="questTable" class="table">
+			<thead>
+				<th></th>
+				<th>Round 1</th>
+				<th>Round 2</th>
+				<th>Round 3</th>
+				<th>Round 4</th>
+				<th>Round 5</th>
+			</thead>
+			<tbody>
+
+			</tbody>
+		</table>
+	</div>
+
+	<script src="index.js"></script>
+	<script type="module" src="https://cdn.jsdelivr.net/npm/bootstrap@6.0.0-alpha.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-1a/pXj49ZQ1aHEmrJ+gMw1otqoVsYwlEnlD8mIfY2TV03r20Y0CN7uqx1tQogjPL" crossorigin="anonymous"></script>
+</body>
+</html>

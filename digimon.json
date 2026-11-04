@@ -1,0 +1,226 @@
+{
+   "Baby Godzilla": {
+      "ID": 2,
+      "Sprite": "./sprites/babygodzilla.gif",
+      "Stage": "III",
+      "Attribute": "Virus",
+      "Power": 30
+   },
+   "Agumon": {
+      "ID": 3,
+      "Sprite": "./sprites/agu.gif",
+      "Stage": "III",
+      "Attribute": "Vaccine",
+      "Power": 25
+   },
+   "Monodramon": {
+      "ID": 4,
+      "Sprite": "./sprites/monodra.gif",
+      "Stage": "III",
+      "Attribute": "Data",
+      "Power": 22
+   },
+   "Little Godzilla": {
+      "ID": 5,
+      "Sprite": "./sprites/littlegodzilla.gif",
+      "Stage": "IV",
+      "Attribute": "Virus",
+      "Power": 52
+   },
+   "Greymon": {
+      "ID": 6,
+      "Sprite": "./sprites/grey.gif",
+      "Stage": "IV",
+      "Attribute": "Vaccine",
+      "Power": 50
+   },
+   "Biollante": {
+      "ID": 7,
+      "Sprite": "./sprites/biollante.gif",
+      "Stage": "IV",
+      "Attribute": "Data",
+      "Power": 40
+   },
+   "Godzillasaurus": {
+      "ID": 8,
+      "Sprite": "./sprites/godzillasaurus.gif",
+      "Stage": "IV",
+      "Attribute": "Virus",
+      "Power": 46
+   },
+   "Raremon": {
+      "ID": 9,
+      "Sprite": "./sprites/rare.gif",
+      "Stage": "IV",
+      "Attribute": "Virus",
+      "Power": 40
+   },
+   "Gigan": {
+      "ID": 10,
+      "Sprite": "./sprites/gigan.gif",
+      "Stage": "IV",
+      "Attribute": "Data",
+      "Power": 45
+   },
+   "Mothra": {
+      "ID": 11,
+      "Sprite": "./sprites/mothra.gif",
+      "Stage": "IV",
+      "Attribute": "Data",
+      "Power": 42
+   },
+   "King Ghidorah (1991)": {
+      "ID": 12,
+      "Sprite": "./sprites/kingghidorah.gif",
+      "Stage": "IV",
+      "Attribute": "Data",
+      "Power": 48
+   },
+   "Rodan": {
+      "ID": 13,
+      "Sprite": "./sprites/rodan.gif",
+      "Stage": "IV",
+      "Attribute": "Data",
+      "Power": 45
+   },
+   "Godzilla Jr": {
+      "ID": 14,
+      "Sprite": "./sprites/godzillajr.gif",
+      "Stage": "V",
+      "Attribute": "Virus",
+      "Power": 95
+   },
+   "Metal Greymon (Vaccine): G-Erosion Mode": {
+      "ID": 15,
+      "Sprite": "./sprites/metalgrey_g.gif",
+      "Stage": "V",
+      "Attribute": "Vaccine",
+      "Power": 110
+   },
+   "Metal Greymon (Vaccine)": {
+      "ID": 16,
+      "Sprite": "./sprites/metalgrey_va.gif",
+      "Stage": "V",
+      "Attribute": "Vaccine",
+      "Power": 90
+   },
+   "Space Godzilla": {
+      "ID": 17,
+      "Sprite": "./sprites/spacegodzilla.gif",
+      "Stage": "V",
+      "Attribute": "Data",
+      "Power": 78
+   },
+   "Godzilla (1954)": {
+      "ID": 18,
+      "Sprite": "./sprites/godzilla_1954.gif",
+      "Stage": "V",
+      "Attribute": "Virus",
+      "Power": 90
+   },
+   "Skull Greymon: G-Erosion Mode": {
+      "ID": 19,
+      "Sprite": "./sprites/skullgrey_g.gif",
+      "Stage": "V",
+      "Attribute": "Virus",
+      "Power": 100
+   },
+   "Zilla": {
+      "ID": 20,
+      "Sprite": "./sprites/zilla.gif",
+      "Stage": "V",
+      "Attribute": "Data",
+      "Power": 70
+   },
+   "Kiryu": {
+      "ID": 21,
+      "Sprite": "./sprites/kiryu.gif",
+      "Stage": "V",
+      "Attribute": "Virus",
+      "Power": 85
+   },
+   "Mecha-King Ghidorah": {
+      "ID": 22,
+      "Sprite": "./sprites/mechakingghidorah.gif",
+      "Stage": "V",
+      "Attribute": "Data",
+      "Power": 78
+   },
+   "Fire Rodan": {
+      "ID": 23,
+      "Sprite": "./sprites/firerodan.gif",
+      "Stage": "V",
+      "Attribute": "Data",
+      "Power": 80
+   },
+   "Godzilla (1994)": {
+      "ID": 24,
+      "Sprite": "./sprites/godzilla_1994.gif",
+      "Stage": "VI",
+      "Attribute": "Virus",
+      "Power": 170
+   },
+   "War Greymon: G-Erosion Mode": {
+      "ID": 25,
+      "Sprite": "./sprites/wargrey_g.gif",
+      "Stage": "VI",
+      "Attribute": "Vaccine",
+      "Power": 190
+   },
+   "War Greymon": {
+      "ID": 26,
+      "Sprite": "./sprites/wargrey.gif",
+      "Stage": "VI",
+      "Attribute": "Vaccine",
+      "Power": 145
+   },
+   "Destoroyah": {
+      "ID": 27,
+      "Sprite": "./sprites/destoroyah.gif",
+      "Stage": "VI",
+      "Attribute": "Data",
+      "Power": 155
+   },
+   "Godzilla (1999)": {
+      "ID": 28,
+      "Sprite": "./sprites/godzilla_1999.gif",
+      "Stage": "VI",
+      "Attribute": "Virus",
+      "Power": 170
+   },
+   "Mugendramon: MFS-3": {
+      "ID": 29,
+      "Sprite": "./sprites/mugendra_m.gif",
+      "Stage": "VI",
+      "Attribute": "Virus",
+      "Power": 185
+   },
+   "Mechagodzilla (1993)": {
+      "ID": 30,
+      "Sprite": "./sprites/mechagodzilla.gif",
+      "Stage": "VI",
+      "Attribute": "Data",
+      "Power": 160
+   },
+   "Burning Godzilla": {
+      "ID": 31,
+      "Sprite": "./sprites/burninggodzilla.gif",
+      "Stage": "VI+",
+      "Attribute": "Virus",
+      "Power": 220
+   },
+   "Chibi Godzilla": {
+      "ID": 32,
+      "Sprite": "./sprites/chibigodzilla.gif",
+      "Stage": "IV",
+      "Attribute": "Virus",
+      "Power": 130
+   },
+   "Chibi Mechagodzilla": {
+      "ID": 33,
+      "Sprite": "./sprites/chibimechagodzilla.gif",
+      "Stage": "IV",
+      "Attribute": "Virus",
+      "Power": 130
+   }
+}

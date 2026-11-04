@@ -1,0 +1,186 @@
+{
+  "Area 1": [
+    {
+      "Attribute": "Vaccine",
+      "Power": 10
+    },
+    {
+      "Attribute": "Virus",
+      "Power": 14
+    },
+    {
+      "Attribute": "Vaccine",
+      "Power": 17
+    }
+  ],
+  "Area 2": [
+    {
+      "Attribute": "Data",
+      "Power": 14
+    },
+    {
+      "Attribute": "Virus",
+      "Power": 18
+    },
+    {
+      "Attribute": "Data",
+      "Power": 22
+    }
+  ],
+  "Area 3": [
+    {
+      "Attribute": "Virus",
+      "Power": 23
+    },
+    {
+      "Attribute": "Data",
+      "Power": 32
+    },
+    {
+      "Attribute": "Data",
+      "Power": 42
+    }
+  ],
+  "Area 4": [
+    {
+      "Attribute": "Virus",
+      "Power": 34
+    },
+    {
+      "Attribute": "Data",
+      "Power": 40
+    },
+    {
+      "Attribute": "Data",
+      "Power": 54
+    },
+    {
+      "Attribute": "Data",
+      "Power": 60
+    }
+  ],
+  "Area 5": [
+    {
+      "Attribute": "Virus",
+      "Power": 40
+    },
+    {
+      "Attribute": "Data",
+      "Power": 48
+    },
+    {
+      "Attribute": "Vaccine",
+      "Power": 72
+    },
+    {
+      "Attribute": "Data",
+      "Power": 88
+    }
+  ],
+  "Area 6": [
+    {
+      "Attribute": "Vaccine",
+      "Power": 38
+    },
+    {
+      "Attribute": "Vaccine",
+      "Power": 54
+    },
+    {
+      "Attribute": "Virus",
+      "Power": 88
+    },
+    {
+      "Attribute": "Vaccine",
+      "Power": 110
+    }
+  ],
+  "Area 7": [
+    {
+      "Attribute": "Data",
+      "Power": 54
+    },
+    {
+      "Attribute": "Data",
+      "Power": 76
+    },
+    {
+      "Attribute": "Virus",
+      "Power": 92
+    },
+    {
+      "Attribute": "Data",
+      "Power": 116
+    },
+    {
+      "Attribute": "Data",
+      "Power": 140
+    }
+  ],
+  "Area 8": [
+    {
+      "Attribute": "Data",
+      "Power": 58
+    },
+    {
+      "Attribute": "Virus",
+      "Power": 88
+    },
+    {
+      "Attribute": "Virus",
+      "Power": 110
+    },
+    {
+      "Attribute": "Virus",
+      "Power": 140
+    },
+    {
+      "Attribute": "Virus",
+      "Power": 160
+    }
+  ],
+  "Area 9": [
+    {
+      "Attribute": "Virus",
+      "Power": 80
+    },
+    {
+      "Attribute": "Data",
+      "Power": 110
+    },
+    {
+      "Attribute": "Vaccine",
+      "Power": 140
+    },
+    {
+      "Attribute": "Virus",
+      "Power": 160
+    },
+    {
+      "Attribute": "Vaccine",
+      "Power": 188
+    }
+  ],
+  "Area F": [
+    {
+      "Attribute": "Virus",
+      "Power": 96
+    },
+    {
+      "Attribute": "Data",
+      "Power": 124
+    },
+    {
+      "Attribute": "Virus",
+      "Power": 148
+    },
+    {
+      "Attribute": "Vaccine",
+      "Power": 174
+    },
+    {
+      "Attribute": "Virus",
+      "Power": 220
+    }
+  ]
+}
